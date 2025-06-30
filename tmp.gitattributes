@@ -1,0 +1,9 @@
+# Python 코드 명시
+*.py linguist-language=Python
+
+# Jupyter Notebook 인식
+*.ipynb linguist-language=JupyterNotebook
+
+# 포함시킬 폴더 강제 인식 (예: backend, frontend)
+backend/* linguist-vendored=false
+frontend/* linguist-vendored=false
