@@ -1,6 +1,26 @@
-# AI_web_prj
-- 웹 기반의 서비스 프로젝트
+# Alcohol Info Platform
+> 웹 기반의 주류 정보 플랫폼
+<br>
 
-## 🛠 기술 스택
-Frontend : JavaScript, HTML, CSS<br>
-Backend : Python, Django
+## 📅 Project Information
+- 개발 기간 : 24.03 - 24.06
+<br>
+
+## 🛠 Tech Stack
+### Frontend
+- JavaScript
+- HTML
+- CSS
+
+### Backend
+- Python
+- Django
+
+### Tools
+<br>
+
+## ✨ Features
+### 주요기능
+<br>
+
+## 📊 Results
